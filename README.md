@@ -9,12 +9,12 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <h3>Languages: </h3>
-      <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,dart,go,html,java,js,kotlin,py,ts,rust&perline=13" />
-      <h3>Platforms & Frameworks: </h3>
-      <img src="https://skillicons.dev/icons?i=astro,dotnet,express,fastapi,flask,flutter,nodejs,prisma,react,vue,svelte,tailwind,remix,yarn&perline=13" />
-      <h3>Tools & Systems</h3>
-      <img src="https://skillicons.dev/icons?i=ae,apple,bash,docker,git,pnpm,idea,linux,md,mongodb,nginx,ps,postgres,powershell,pr,pycharm,redis,rider,vercel,vscode,windows&perline=13" />
+      <h3>Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,go,java,html,css&perline=9" />
+      <h3>Frameworks & Runtime</h3>
+      <img src="https://skillicons.dev/icons?i=fastapi,spring,nestjs,vue,nodejs&perline=9" />
+      <h3>DevTools & Infrastructure</h3>
+      <img src="https://skillicons.dev/icons?i=vscode,idea,git,pnpm,docker,nginx,postgres,redis,qdrant,bash,powershell,linux,windows,md&perline=7" />
     </a>
   </p>
 </div>
