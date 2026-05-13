@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,go,java,html,css&perline=9" />
+      <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,go,java,html,css&perline=9&_t=2" />
       <h3>Frameworks & Runtime</h3>
       <img src="https://skillicons.dev/icons?i=fastapi,spring,nestjs,vue,nodejs&perline=9" />
       <h3>DevTools & Infrastructure</h3>
