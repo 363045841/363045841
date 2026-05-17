@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&size=40&duration=4000&pause=2000&color=5D5D5D&center=true&vCenter=true&width=600&lines=High-Performance+Canvas+Charts;AI-Native+Application+Development;Building+Scalable+Systems" alt="Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=PT+Sans&size=40&duration=4000&pause=2000&color=5D5D5D&center=true&vCenter=true&width=600&lines=Stay+True+to+Your+Core;Fear+No+Slander;Uncover+Hidden+Value" alt="Typing" />
   </a>
 
   <img src="https://github-profile-trophy.vercel.app/?username=363045841&theme=flat&margin-w=33&no-frame=true&no-bg=true&title=MultiLanguage,Organizations,Commits,PullRequest,Repositories,Experience,Stars,Followers" alt="Trophy" width="96.5%">
