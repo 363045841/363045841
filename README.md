@@ -12,7 +12,7 @@
       <h3>Frameworks & Runtime</h3>
       <img src="https://skillicons.dev/icons?i=fastapi,spring,nestjs,vue,nodejs&perline=9" />
       <h3>DevTools & Infrastructure</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,idea,git,pnpm,docker,nginx,mysql,postgres,redis,bash,powershell,linux,windows,md&perline=7" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,git,vite,vitest,pinia,rabbitmq,electron,pnpm,docker,nginx,mysql,postgres,redis,bash,powershell,linux,windows,md,obsidian,ubuntu&perline=9" />
     </a>
   </p>
 </div>
