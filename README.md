@@ -10,9 +10,9 @@
       <h3>Languages</h3>
       <img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,go,java,html,css&perline=9&_t=2" />
       <h3>Frameworks & Runtime</h3>
-      <img src="https://skillicons.dev/icons?i=fastapi,spring,nestjs,vue,nodejs&perline=9" />
+      <img src="https://skillicons.dev/icons?i=fastapi,spring,nestjs,vue,react,nodejs&perline=9" />
       <h3>DevTools & Infrastructure</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,idea,git,vite,vitest,pinia,rabbitmq,electron,pnpm,docker,nginx,mysql,postgres,redis,bash,powershell,linux,windows,md,obsidian,ubuntu&perline=9" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,git,vite,vitest,pinia,rabbitmq,electron,tauri,pnpm,docker,nginx,mysql,postgres,redis,bash,powershell,linux,windows,md,obsidian,ubuntu&perline=9" />
     </a>
   </p>
 </div>
